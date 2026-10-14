@@ -4,11 +4,11 @@
         <title>myScreenshots</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 14 Oct 2026 14:59:39 -0500</pubDate>
+            <pubDate>Wed, 14 Oct 2026 15:07:48 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mjyoung/mac-apps-releases/releases/download/myScreenshots-v0.1.0/myScreenshots-0.1.0.zip" length="1617196" type="application/octet-stream" sparkle:edSignature="/jAAwT3Yhoghi9s2E/HitKyvJo3ZdDMks2v42Q6J9zZDhmi3x/7r/6VL1T6TXA+SOYUrVUrGNdQiP9XCDEcXCQ=="/>
+            <enclosure url="https://github.com/mjyoung/mac-apps-releases/releases/download/myScreenshots-v0.1.0/myScreenshots-0.1.0.zip" length="1617244" type="application/octet-stream" sparkle:edSignature="TggeqJ9KJdBC5GCRfnHtgOrf189D4KuxcfgC/npYsRFOPdYvEwsoM5bDTYEFew5ULfHVTlqmshiq6+Pcp66TAA=="/>
         </item>
     </channel>
 </rss>
