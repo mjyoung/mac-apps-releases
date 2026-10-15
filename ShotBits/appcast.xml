@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ShotBits</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 15 Oct 2026 15:58:26 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mjyoung/mac-apps-releases/releases/download/ShotBits-v0.2.0/ShotBits-0.2.0.zip" length="2120098" type="application/octet-stream" sparkle:edSignature="9s6LVoui0etB58U5KqNyqkIvjMv9oiGv/XP9970RFd0Qhtb+RQCPrACFfVt0FMMb7HkviMdhOV2S9PwyeGmxAg=="/>
+        </item>
+    </channel>
+</rss>
